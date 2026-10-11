@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Parvati Hosatti👋<br><br>🎓 Computer Science Engineering student at [AITM Belagavi]<br>💻 Currently learning: Data Structures & Algorithms, Web Development<br>📫 Reach me at: [parvatihosatti010@gmail.com]<br>
+# Hi, I'm Parvati Hosatti👋<br><br>🎓 Computer Science Engineering student <br>💻 Currently learning: Data Structures & Algorithms, Web Development<br>📫 Reach me at: [parvatihosatti010@gmail.com]<br>
 
 
 ## 🌐 Socials:
